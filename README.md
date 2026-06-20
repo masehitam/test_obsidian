@@ -15,4 +15,8 @@ Cara mudah untuk mensinkronkan catatan di Obsidian menggunakan git di iOS, caran
    git clone --depth=1 https://username:API_KEY@github.com/username/test_obsidian.git
    ```
 2. Jika berhasil, vault seharusnya muncul di obsidian
-3. jangan lupa install git plugin di obsidian
+3. jangan lupa install git plugin di obsidian, isi bagian credential
+   - username
+   - personal access otken
+   - author name
+   - email
