@@ -1,6 +1,6 @@
-# test_obsidian
 
-Cara mudah untuk mensinkronkan catatan di Obsidian menggunakan git di iOS, caranya : 
+# Tutorial Sync Obsidian via Git di iOS
+
 1. Install aplikasi ish, dan masukan perintah :
    ```bash
    # install git
