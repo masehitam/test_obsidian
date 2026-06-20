@@ -17,6 +17,11 @@
 2. Jika berhasil, vault seharusnya muncul di obsidian
 3. jangan lupa install git plugin di obsidian, isi bagian credential
    - username
-   - personal access otken
+   - personal access token
    - author name
    - email
+
+
+kamu bisa hapus aplikasi ish jika tidak ingin mengclone repo lain
+
+sumber : https://www.youtube.com/watch?v=JcaEeE51F-0
